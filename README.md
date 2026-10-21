@@ -6,7 +6,8 @@ A personal portfolio showcasing Opeyemi Gbadamosi’s work as a QA engineering l
 
 ## Features
 
-- Responsive charcoal and purple design with layouts for desktop and mobile.
+- Responsive dark and light themes with purple accents and layouts for desktop and mobile.
+- Accessible theme switch that remembers the visitor’s choice and otherwise follows their system preference.
 - Professional introduction, career timeline and selected engineering initiatives.
 - Categorised technical skills, certifications, education and community experience.
 - Downloadable CV and links to email, LinkedIn and GitHub.
