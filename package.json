@@ -1,0 +1,1 @@
+{"name":"opeyemi-gbadamosi-portfolio","version":"1.0.0","private":true,"description":"Accessible, static quality engineering portfolio","scripts":{"dev":"python3 -m http.server 4173 --directory dist --bind 127.0.0.1","check":"node --check dist/app.js && python3 scripts/check_site.py"}}

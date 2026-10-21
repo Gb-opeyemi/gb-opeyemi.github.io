@@ -1,0 +1,49 @@
+# Local development files
+.DS_Store
+node_modules/
+__pycache__/
+tmp/
+.env
+.env.*
+!.env.example
+
+# Personal documents (approved website CV is allowed below)
+*.[pP][dD][fF]
+*.[dD][oO][cC]
+*.[dD][oO][cC][xX]
+*.[rR][tT][fF]
+*.[cC][vV]*.[mM][dD]
+*.[rR][eE][sS][uU][mM][eE]*.[mM][dD]
+*CV*.md
+*cv*.md
+*Resume*.md
+*resume*.md
+
+# This script embeds the combined personal CV content
+scripts/create_cv.py
+
+# Personal photos and screenshots (keep code-based SVG assets)
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.[pP][nN][gG]
+*.[wW][eE][bB][pP]
+*.[hH][eE][iI][cC]
+*.[hH][eE][iI][fF]
+*.[tT][iI][fF]
+*.[tT][iI][fF][fF]
+
+# Archives can contain personal assets
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+
+# Private hosting configuration
+.openai/
+
+
+scripts/create_cv.py
+
+# Approved public website assets
+!/dist/assets/opeyemi.jpg
+!/dist/assets/Opeyemi-Gbadamosi-CV.pdf
